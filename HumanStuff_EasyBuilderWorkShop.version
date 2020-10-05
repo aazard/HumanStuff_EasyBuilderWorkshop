@@ -1,0 +1,23 @@
+{
+  "NAME": "HumanStuff_EasyBuilderWorkShop",
+  "DOWNLOAD": "",
+  "URL": "https://github.com/aazard/HumanStuff_EasyBuilderWorkshop/HumanStuff_EasyBuilderWorkshop.version",
+  "GITHUB": {
+    "USERNAME": "aazard",
+    "REPOSITORY": "HumanStuff_EasyBuilderWorkshop"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 10
+  }
+}
