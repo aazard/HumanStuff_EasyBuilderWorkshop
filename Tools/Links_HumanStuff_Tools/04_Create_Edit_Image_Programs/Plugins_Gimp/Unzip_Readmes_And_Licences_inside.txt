@@ -1,0 +1,1 @@
+unzip readmes and licence inside zip folders
