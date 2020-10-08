@@ -4,7 +4,7 @@ Setlocal EnableDelayedExpansion
 ::Variables
 SET @FORMAT=BC3_UNORM
 SET @InputFolder=%~dp0Input_IMG_TO_BC3\
-SET @OutputFolder=%~dp0Output_DXT5_BC3\
+SET @OutputFolder=%~dp0Output_DXT5_BC3_MIPMAPED\
 SET @TEXCONVEXE=%~dp0texconv.exe
 SET @TEXCONVEXE02=%~dp0texconv.exe
 :: Check for texconv.exe

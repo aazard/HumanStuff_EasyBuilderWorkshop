@@ -4,7 +4,7 @@ Setlocal EnableDelayedExpansion
 ::Variables
 SET @FORMAT=BC3_UNORM
 SET @InputFolder=%~dp0Input_IMG_TO_BC3\
-SET @OutputFolder=%~dp0Output_DXT5_BC3\
+SET @OutputFolder=%~dp0Output_DXT5_BC3_NO_MIPMAPS\
 SET @TEXCONVEXE=%~dp0texconv.exe
 SET @TEXCONVEXE02=%~dp0texconv.exe
 :: Check for texconv.exe
@@ -52,7 +52,7 @@ GOTO SetTexConvPath
 :: Customize CMD Window
 TITLE HumanStuff TexConv Batch Directory Script v1.0.2
 PROMPT $G
-COLOR B
+COLOR 04
 CLS
 
 :: Make The Folders
@@ -84,7 +84,7 @@ GOTO SCRIPTEND
 
 :TexConv01
 IF NOT "%@LOGO%"=="" SET @LOGO=-nologo
-"%@TEXCONVEXE02%" %@LOGO% -srgb -nogpu -pow2 -vflip -if triangle -bc u -m 1 -f %@FORMAT% "%@ISTRING%" -o "%@OSTRING%" -y
+"%@TEXCONVEXE02%" %@LOGO% -srgb -nogpu -pow2 -m 1 -vflip -if triangle -bc u -f %@FORMAT% "%@ISTRING%" -o "%@OSTRING%" -y
 ECHO:
 SET @LOGO= 
 GOTO SCRIPTEND
