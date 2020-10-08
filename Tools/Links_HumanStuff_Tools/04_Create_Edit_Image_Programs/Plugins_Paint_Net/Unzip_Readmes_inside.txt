@@ -1,1 +1,0 @@
-unzip readmes inside zip folders

@@ -1,0 +1,6 @@
+you will need to install 7zip, supplied unzipped, to unzip the super compressed archives.
+Please go through all folders, unziping all 7z found.
+
+NOTE: some 7.z's contain multiple other 7z;s to unzip, check all, you only need to check everything once.
+
+MAKE SURE YOU DO!
