@@ -1,5 +1,9 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 1.1.2
+- Pruned all directories 
+- Tool Directory optimally rebuilt.
+- Removed any _outclassed_ tool sets
 ## 1.1.1
 - FULL "Easy Builder Workshop" Directory (aka: Folder) structure built.
 - Custom BAT FILES for TexConv for non-CLI accustom users
