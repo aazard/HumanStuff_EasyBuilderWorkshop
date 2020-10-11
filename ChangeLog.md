@@ -1,5 +1,9 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 2.0.1 Vertor
+- Now a single exe chain, multi instaler
+- Rebuilt directories due to path length 
+- Tool Directory is now an auto-install
 ## 1.1.2
 - Pruned all directories 
 - Tool Directory optimally rebuilt.
