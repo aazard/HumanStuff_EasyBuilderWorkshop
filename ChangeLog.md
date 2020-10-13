@@ -1,12 +1,14 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 2.2.2 Vector
+- error in 2.2.1 build
 ## 2.2.1 Vertor
 - Another pass to custom tool folder to reduce "installs" for user
 - Rebuilt, due to tool descriptions added to installer 
-## 2.1.1 Vertor
+## 2.1.1 Vector
 - Rebuilt, due to tool tests stream lining 
 - Tool Directory is now a much smaller auto-install
-## 2.0.1 Vertor
+## 2.0.1 Vector
 - Now a single exe chain, multi instaler
 - Rebuilt directories due to path length 
 - Tool Directory is now an auto-install
