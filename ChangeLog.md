@@ -1,5 +1,8 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 2.2.1 Vertor
+- Another pass to custom tool folder to reduce "installs" for user
+- Rebuilt, due to tool descriptions added to installer 
 ## 2.1.1 Vertor
 - Rebuilt, due to tool tests stream lining 
 - Tool Directory is now a much smaller auto-install
