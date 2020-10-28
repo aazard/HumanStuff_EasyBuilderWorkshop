@@ -1,6 +1,6 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
-## 2.4.1 Vector
+## 2.4.1 Prolegomenon
 - More clean up
 - Installer vastly improved
 ## 2.3.1 Vector
