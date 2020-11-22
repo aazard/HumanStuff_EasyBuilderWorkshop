@@ -1,5 +1,7 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 3.0.1 Prolegomenon
+- Finalized set, further releases are fixes and/or future additions
 ## 2.9.1 Prolegomenon
 - More clean up
 - Installer vastly improved
