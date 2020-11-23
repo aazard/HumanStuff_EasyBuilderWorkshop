@@ -1,5 +1,13 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+## 3.1.1 Prolegomenon
+- I made a nice clean shortcut menu, .... then forgot to add it to the files lol, added it back
+- Sage thumbs installer is part of same asset set, also re-added/put back (very needed tool!!!)
+- Found 1 app (3mb's only) in quadruplicate, reduced to 1 copy
+- Added suggested safe homepage for PWA capable webbrowsers @: 
+https://desktop.ssuiteoffice.com/
+- With "Other" Online Tools suggested to be found at: 
+https://www.offidocs.com/index.php/main-desktop-app-categories
 ## 3.0.1 Prolegomenon
 - Finalized set, further releases are fixes and/or future additions
 ## 2.9.1 Prolegomenon
