@@ -1,5 +1,9 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
+
+## 3.2.1 Prolegomenon
+- Error in 3.1.1 exe, swaped packaging of bulk files to 7z sfx, otherwise same
+- NOTE: I will add shortcuts next update
 ## 3.1.1 Prolegomenon
 - I made a nice clean shortcut menu, .... then forgot to add it to the files lol, added it back
 - Sage thumbs installer is part of same asset set, also re-added/put back (very needed tool!!!)
