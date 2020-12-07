@@ -1,6 +1,12 @@
 # Change Log # //HumanStuff_EasyBuilderWorkshop//
 
 
+## 4.0.1 Measure Twice, Cut Once
+- CONSIDER this the 1st Finalized tool list of 2020/2021. *Pending updates/news
+- HUGE tool prune, needlessly odd/confusing and/or Overly Redundant Tools pruned
+- NOTE: I will add shortcuts and any additional cleanup in maintaince updates
+..................
+
 ## 3.2.1 Prolegomenon
 - Error in 3.1.1 exe, swaped packaging of bulk files to 7z sfx, otherwise same
 - NOTE: I will add shortcuts next update
