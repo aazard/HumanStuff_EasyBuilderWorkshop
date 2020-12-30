@@ -1,3 +1,12 @@
+# Aazards Website, with releases details: https://aazard.github.io/
+
+***
+aazards Logo | Tiny USB Logo
+------------ | -------------
+![aazards Logo](https://i.ibb.co/qy9t6Kc/Human-Stuff-Standard-Suit-Animated-480.webp) | ![Tiny USB Logo](https://i.ibb.co/19BWW3Z/51-Ug-RY4fo-HL.png)
+
+***
+
 ______________________________________________________________________________________
 
 MAKE A CUSTOM "HEAD" & "SUIT" SET(s) ON DAY 1! ANY "ERA"! "BACKPACKS" "PARACHUTES" & "SKYBOXES" TOO!
